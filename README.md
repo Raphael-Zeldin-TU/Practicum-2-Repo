@@ -1,6 +1,6 @@
 # Instructions  
 
-## Practicum 2- Understanding `public static void main` in Java
+## Practicum 2- Understanding `public static void main` in Java (5 pts.)
 
 **BACKGROUND**<br>
 Java programs generally consist of multiple file (as a
